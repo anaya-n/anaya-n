@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anaya-n&repo=XML)](https://github.com/anaya-n/XML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anaya-n&repo=Git_Bash_Branches)](https://github.com/anaya-n/Git_Bash_Branches)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaya-n&theme=solarized_dark)
